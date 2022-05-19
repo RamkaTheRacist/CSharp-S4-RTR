@@ -33,6 +33,7 @@ for (int  i = 0; i < count; i++)
     if(array[i] == k)
     {
         r++;
+        break;
     }
 
 }
